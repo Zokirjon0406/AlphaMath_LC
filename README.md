@@ -1,1 +1,1 @@
-# AlphaMath_LC
+# AlphaMathTestBot
